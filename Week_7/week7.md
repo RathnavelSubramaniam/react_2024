@@ -4,6 +4,6 @@
 |      |                      | [Discusssions]()                   |
 |      |                      | [Knowledge Check 7.1]()            |
 |      |                      | [Knowledge Check 7.2]()            |
-|      |                      | [Coding Activity]() |
-|      |                      | [Coding Assignment]() |
+|      |                      | [Coding Activity](https://classroom.github.com/a/MMAzP_Ak) |
+|      |                      | [Coding Assignment](https://classroom.github.com/a/J0AQX42q) |
 |      |                      | [Additional Resources](./Additional%20Resources.pdf)           |
