@@ -2,7 +2,7 @@
 
 - [Front End Development using React]()
   - [Announcements]()
-  - [Syllabus](./syllabus/Front )
+  - [Syllabus](./syllabus/Front%20end%20development%20with%20React.pdf)
   - [Week 1 - Introduction to Javascript ES6]()
   - [Week 2 - Introduction to React]()
   - [Week 3 - Introduction to JSX]()
