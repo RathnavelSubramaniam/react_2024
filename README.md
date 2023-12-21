@@ -1,6 +1,6 @@
-# Front End Development using React
+# Front End Development with React
 
-- [Front End Development using React]()
+- [Front End Development with React]()
   - [Announcements]()
   - [Syllabus](./syllabus/Front%20end%20development%20with%20React.pdf)
   - [Week 1 - Introduction to Javascript ES6]()
@@ -16,7 +16,7 @@
  
 
 ## Announcements
-- Syllabus for Web Development with JavaScript given.
+- Syllabus for Front End Development with React given.
 - Have to take up  Knowledge check after each concepts.
 - Coding Activity and Coding Assignments to be submitted within stipulated time.
 
