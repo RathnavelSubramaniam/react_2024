@@ -1,18 +1,18 @@
-# Web Development with JavaScript
+# Front End Development using React
 
-- [Web Developmentwith JS](#wdjs)
-  - [Announcements](#announcements)
+- [Front End Development using React]()
+  - [Announcements]()
   - [Syllabus](./syllabus/Web_Development_with_JavaScript.pdf)
-  - [Week 1 - Computational Thinking](./syllabus/week_1.md)
-  - [Week 2 - Mental model of Computer Operations](./Week_2/week_2.md)
-  - [Week 3 - Introduction to JavaScript](./week_3/week3.md)
-  - [Week 4 - Functions: Array Manipulation And Scope](./week_4/week4.md) 
-  - [Week 5 - Callback Functions](./week_5/week5.md)
-  - [Week 6 - Introduction To GitHub, Testing, And The DOM](./Week_6/week6.md)
-  - [Week 7 - Styles And Bootstrap](./Week_7/week7.md)
-  - [Week 8 - Asynchronous Code](./Week_8/week8.md)
-  - [Week 9 - Introduction to Cyber Security and Recursion]()
-  - [Week 10 - GitHub Portfolio Project]()
+  - [Week 1 - Introduction to Javascript ES6]()
+  - [Week 2 - Introduction to React]()
+  - [Week 3 - Introduction to JSX]()
+  - [Week 4 - Working with Lists in React]() 
+  - [Week 5 - Working with simple components]()
+  - [Week 6 - Tic Tac Toe Exercise with React]()
+  - [Week 7 - Working with React components]()
+  - [Week 8 - Bad Bank Exercise]()
+  - [Week 9 - Shopping Cart Exercise]()
+  - [Week 10 - Testing]()
  
 
 ## Announcements
