@@ -1,6 +1,6 @@
 | Week | Topic                                        | Activity & Assignment          |
 |------|----------------------------------------------|--------------------------------|
-| 6    | Introduction To GitHub, Testing, And The DOM | [Introduction](./Introduction%20And%20Instructions.pdf)                  |
+| 6    | Tic_Tac_Toe_Excercise_with_React             | [Introduction](./Introduction%20And%20Instructions.pdf)                  |
 |      |                                              | [Discussions](https://classroom.google.com/c/NjE2MjExMTIzMTI1/a/NTI4OTMzODg0MjY3/details)                   |
 |      |                                              | [Knowledge Check 6.1](https://docs.google.com/forms/d/1nlHgsKwJkUH8U4w6hglBTTnpMMVjOF0ON30grfL0O0s/edit)            |
 |      |                                              | [Knowledge Check 6.2](https://docs.google.com/forms/d/1xMQcO43dF6PGLTdZ6HqUUNa87eiKN9S5D4hBSI2Glzo/edit)            |
