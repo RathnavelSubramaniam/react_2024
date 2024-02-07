@@ -20,6 +20,9 @@
 - Have to take up  Knowledge check after each concepts.
 - Coding Activity and Coding Assignments to be submitted within stipulated time.
 
+## Internal Marks
+[**Click Here to check your Scores**](https://rathnavelsubramaniam.github.io/react_msccs_marks/)<br>
+
 
 
 <!-- ## Pattern of the Test
