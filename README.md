@@ -8,7 +8,7 @@
   - [Week 3 - Introduction to JSX](./week_3/week3.md)
   - [Week 4 - Working with Lists in React](./week_4/week4.md)
   - [Week 5 - Working with simple components](./week_5/week5.md)
-  - [Week 6 - Tic Tac Toe Exercise with React]
+  - [Week 6 - Tic Tac Toe Exercise with React](./week_6/week6.md)
   - [Week 7 - Working with React components]
   - [Week 8 - Bad Bank Exercise]
   - [Week 9 - Shopping Cart Exercise]
