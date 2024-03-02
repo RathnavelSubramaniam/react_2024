@@ -10,7 +10,7 @@
   - [Week 5 - Working with simple components](./week_5/week5.md)
   - [Week 6 - Tic Tac Toe Exercise with React](./week_6/week6.md)
   - [Week 7 - Working with React components](./week_7/week7.md)
-  - [Week 8 - Bad Bank Exercise]
+  - [Week 8 - Bad Bank Exercise](./week_8/week8.md)
   - [Week 9 - Shopping Cart Exercise](./week_9/week9.md)
   - [Week 10 - Testing]
  
@@ -19,19 +19,6 @@
 - Syllabus for Front End Development with React given.
 - Have to take up  Knowledge check after each concepts.
 - Coding Activity and Coding Assignments to be submitted within stipulated time.
-
-## Internal Marks
-[**Click Here to check your Scores**](https://rathnavelsubramaniam.github.io/react_msccs_marks/)<br>
-
-
-
-<!-- ## Pattern of the Test
-
-| Section           | Questions    | Time    |
-| ----------------- | ------------ | ------- |
-| Programming Logic | 10 Questions | 15 Mins |
-| Hands-On Coding   | 1 Question   | 15 Mins |
-| Hands-On Coding   | 1 Questions  | 30 Mins | -->
 
 
 
