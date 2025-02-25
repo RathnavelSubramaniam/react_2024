@@ -11,7 +11,7 @@
   - [Week 6 - Tic Tac Toe Exercise with React](./week_6/week6.md)
   - [Week 7 - Working with React components](./week_7/week7.md)
   - [Week 8 - Bad Bank Exercise]()
-  - [Week 9 - Shopping Cart Exercise]()
+  - [Week 9 - Shopping Cart Exercise](./week_9/week9.md)
   - [Week 10 - Testing]
  
 
