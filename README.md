@@ -12,7 +12,7 @@
   - [Week 7 - Working with React components](./week_7/week7.md)
   - [Week 8 - Bad Bank Exercise](./week_8/week8.md)
   - [Week 9 - Shopping Cart Exercise](./week_9/week9.md)
-  - [Week 10 - Testing]
+  
  
 
 ## Announcements
